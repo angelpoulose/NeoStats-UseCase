@@ -1,1 +1,1 @@
-# NeoStats-UseCase
+# NeoStats
