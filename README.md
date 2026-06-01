@@ -52,5 +52,6 @@ The notebook and script also include charting for:
 - `pandas`
 - `matplotlib`
 - `seaborn`
+-  powerBI
 
 
